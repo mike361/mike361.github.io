@@ -1,2 +1,2 @@
-# dustincook.github.io
+# jotru.github.io
 Personal website
